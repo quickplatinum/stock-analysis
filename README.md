@@ -21,7 +21,7 @@ In 2017, the highest performing stock was "DQ" at 199.4% gain, with "SEDG" at 18
 ### The refactored code was considerably faster at analyzing the data for both years, and took well below 0.5 seconds to analyze the data. Screenshotted below is the running time for the 2017 and 2018 all sotck analyis.
 ![VBA_Challenge 2017 (Refactored) ](https://user-images.githubusercontent.com/88692025/133012173-c66aa50d-c93e-40d0-8aa6-cbe40add7477.png) ![VBA_Challenge 2018 (Refactored) ](https://user-images.githubusercontent.com/88692025/133012178-ae83f884-1d70-44dd-b436-802e5eb51444.png)
 
-#Summary
+# Summary
 ### Advantages of refactoring code:
 
 * The code is easier for people to read and becomes user friendlier for future editors and workers on the code
