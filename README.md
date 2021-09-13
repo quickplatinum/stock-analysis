@@ -6,7 +6,7 @@ University of Toronto SCS Data Analytics Boot Camp Module 2 Challenge: VBA of Wa
 Performing analysis on histrocial stock data to uncover trends, this includes creating a VBA Macro that will help our friend Steve analyze stocks performance for a given year. Initially he was impressed by the ability to have VBA analyze a large data set for this his parent's stock "DQ". But he wanted us to go further by creating a Macro that will analyze multiple stocks for many given years and that will be easily preformed by clicking single button. Included in the VBA Macro is also the formatting of the results table and conditonal formatting that shows how the stock is has perfomred after a year of trading. 
 
 ### Purpose
-The purpose of the project is automation and code refactoring, the initial code that was written was great but had limitations if more data was added. THe original code was also not as fast, in this written report a comparison between the refactored code performance and the original code peroformance will be presented. 
+The purpose of the project is automation and code refactoring, the initial code that was written was great but had limitations if more data was added. The original code was also not as fast, in this written report a comparison between the refactored code performance and the original code peroformance will be presented. 
 
 ## Analysis and Results
 
