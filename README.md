@@ -13,6 +13,7 @@ The purpose of the project is automation and code refactoring, the initial code 
 ### 2017 vs 2018 Sock Performance
 ![2017 Stock Performance](https://user-images.githubusercontent.com/88692025/133011318-494236a0-dd1a-4404-9100-fc1dbdd4b89b.png)
 ![2018 Stock Performance](https://user-images.githubusercontent.com/88692025/133011679-f345b85e-e60a-4011-9321-b4f1b0247099.png)
+
 In 2017, the highest performing stock was "DQ" at 199.4% gain, with "SEDG" at 184.5% as a close second, in comparison both stocks did not perform as well in 2018. Both stocks lost value throughout that year. The general pattern is that stocks in 2017 performed better, there were more gains across the board. Furthermore, a higher total daily volume in 2017 compared to 2018. The above tables summarize the results in both years for comparsion. The tables were created through the refactored VBA Macro using 2017 and 2018 data and formatted within the same press of a button.
 
 ## Comparing Original Code Running Time vs Refactored Code Running Time
