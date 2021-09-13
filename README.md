@@ -37,7 +37,7 @@ In 2017, the highest performing stock was "DQ" at 199.4% gain, with "SEDG" at 18
 
 How do these pros and cons apply to refactoring the original VBA script?
 * The conclusion is that the refactored code has served it's purpose, the running time was cut down by almost 4x in both cases! this means that the original code was clunkier and the refactored code is more streamlined and effecient.
-* For comparison's sake, attached are screenshots of the original and refactored code in VBA.
+* For comparison's sake, attached are screenshots of the original and refactored code in VBA:
 #### Original Code
 ![Original Code](https://user-images.githubusercontent.com/88692025/133012440-44862072-b419-4030-8855-7da9e72dc3dd.PNG)
 #### Refactored Code
